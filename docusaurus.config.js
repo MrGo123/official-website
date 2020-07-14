@@ -90,14 +90,6 @@ module.exports = {
             },
           ],
         },
-        {
-          title: '友情链接',
-          items: [{
-              label: '三院科协',
-              href: 'https://github.com/sanyuankexie',
-            },
-          ],
-        },
       ],
       /*
       logo: {

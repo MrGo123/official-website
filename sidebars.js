@@ -13,9 +13,6 @@ module.exports = {
       'introduction/information-security',
       'introduction/Big-Data'
     ],
-    成长: [
-      'growth/growth'
-    ],
     互联网优质资源: [
       'netsource/README',
     ],
